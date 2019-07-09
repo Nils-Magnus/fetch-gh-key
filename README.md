@@ -1,6 +1,6 @@
 # fetch-gh-key
 
-Copyrigt (c) 2019 by Nils Magnus (nils.magnus@t-systems.com)
+Copyright (c) 2019 by Nils Magnus (nils.magnus@t-systems.com)
 
 Licensed under the GPLv2.
 
